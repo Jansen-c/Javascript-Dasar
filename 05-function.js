@@ -117,4 +117,4 @@ function firstNonRepeatedChar(str) {
   return null;
 }
 
-firstNonRepeatedChar("hah")
+firstNonRepeatedChar("Jansen")
